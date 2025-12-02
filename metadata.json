@@ -1,0 +1,5 @@
+{
+  "name": "Core - Life OS",
+  "description": "A gamified Life OS combining habit tracking, journaling, and RPG attributes (Vitality, Wisdom, Discipline, Serenity). Features an AI Life Coach powered by Gemini.",
+  "requestFramePermissions": []
+}
